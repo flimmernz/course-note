@@ -6,6 +6,6 @@
 ## 本科阶段
 
 1.材料制备与加工 ：Materials Preparation and Processing
-
+2.固体材料结构基础 ：space group of solid
 
 ## 研究生阶段
