@@ -6,7 +6,7 @@
 ## 本科阶段
 
 1.材料制备与加工 ：Materials Preparation and Processing  
-2.固体材料结构基础 ：space group of solid
+2.固体材料结构基础 ：space group of solid  
 3.物化实验：上下课程的各类实验报告
 
 ## 研究生阶段
